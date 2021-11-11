@@ -47,3 +47,9 @@ h2 {
   font-size: 35px;
   margin:0px 20px;
 }
+
+.card {
+  width: 300px;
+  height: 350px;
+  align-items: center;
+}
